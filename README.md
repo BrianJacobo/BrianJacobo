@@ -1,6 +1,6 @@
 ## 👋 ¡Hola! Soy Brian Yasier Jacobo Fuentes
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&label=Profile%20views&color=0e75b6&style=flat" alt="tu_usuario_de_github" /> </p> # Reemplaza TU_USUARIO_DE_GITHUB con tu nombre de usuario real
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TU_USUARIO_DE_GITHUB&label=Profile%20views&color=0e75b6&style=flat" alt="tu_usuario_de_github" /> </p> # Reemplaza BrianJacobo con tu nombre de usuario real
 
 Soy un **Desarrollador de Software** con 5 años de experiencia, apasionado por la tecnología, la innovación y el poder del software para crear soluciones impactantes. Me especializo en el desarrollo backend con un fuerte enfoque en el ecosistema de Node.js, pero siempre estoy explorando nuevas tecnologías y paradigmas.
 
@@ -32,7 +32,7 @@ Soy un **Desarrollador de Software** con 5 años de experiencia, apasionado por 
 
 * Estoy abierto a **colaborar en proyectos interesantes**, especialmente aquellos que involucren Node.js, IA, o que tengan un impacto social positivo.
 * Disfruto compartiendo conocimiento: tengo experiencia como **speaker** y estoy disponible para **charlas técnicas, workshops o mentorías**.
-* Puedes encontrarme en [LinkedIn](TU_LINK_DE_LINKEDIN) # Reemplaza con tu URL de LinkedIn
+* Puedes encontrarme en [LinkedIn](https://www.linkedin.com/in/brian-jacobo-fuentes/) # Reemplaza con tu URL de LinkedIn
 * ¡No dudes en escribirme si quieres discutir sobre tecnología, algún proyecto o simplemente conectar!
 
 ---
